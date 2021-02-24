@@ -12,7 +12,7 @@ Sou um FullStack Developer :computer:
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: Javascript, Node.js & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, e futebol 
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Froger-sene-crescencio-6a6925184%2F
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/linkedin/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Froger-sene-crescencio-6a6925184%2F
 /) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
