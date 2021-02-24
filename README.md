@@ -17,4 +17,4 @@ Sou um FullStack Developer :computer:
 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
-[![Instagran Badge](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Froger-sene-crescencio-6a6925184%2F)
+[![Instagran Badge](https://img.shields.io/instagran/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Froger-sene-crescencio-6a6925184%2F)
