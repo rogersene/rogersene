@@ -1,4 +1,4 @@
-```markdown
+
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 # Roger Sene Crescêncio
@@ -16,4 +16,4 @@ Sou um FullStack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
-```
+
