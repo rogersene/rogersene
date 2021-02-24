@@ -1,7 +1,7 @@
 ```markdown
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-# Thiago Marinho
+# Roger Sene Crescêncio
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
