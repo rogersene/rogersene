@@ -7,8 +7,8 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Html,Css,Javascript
+ :computer:  &nbsp; Estou trabalhando na **Digital Sofware**
+ <br/> :blue_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Html,Css,Javascript
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: Javascript, Node.js & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, e futebol 
