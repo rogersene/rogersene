@@ -14,7 +14,7 @@ Sou um FullStack Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, e futebol 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RogerSene-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roger-sene-crescencio/)](https://www.linkedin.com/in/roger-sene-crescencio/)
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rogersenefaria@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogersenefaria@gmail.com)](mailto:rogersenefaria@gmail.com)
 
 
 [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Froger-sene-crescencio-6a6925184%2F)
