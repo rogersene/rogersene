@@ -1,5 +1,5 @@
 
-<img width="auto" src="https://media.istockphoto.com/vectors/front-end-development-web-banner-concept-vector-id1167600197?k=20&m=1167600197&s=170667a&w=0&h=eXf3kFtGYdxrPeduZv6DcKSFhr9y0HaXgX3jcxObX_g=">
+<img width="auto" src="https://www.nicepng.com/png/detail/26-267331_software-development-software-development-banner-png.png">
 
 # Roger Sene Crescêncio
 
